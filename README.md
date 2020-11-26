@@ -2,7 +2,7 @@
 
 This is the repo for openseattle.org.
 
-## Contributing:
+## Contributing
 
 - Fork the repo
 - Create a branch for your changes
