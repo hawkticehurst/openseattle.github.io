@@ -1,0 +1,15 @@
+.hero-btn {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  margin: 0 1.5rem 0 0;
+  padding: 0.5rem;
+  border-radius: 15px;
+  border: solid 2px rgb(187, 187, 187);
+  background: #f2f4f8;
+}
+
+.hero-btn:hover {
+  border-color: rgb(113, 87, 206);
+  background: #dde3f4;
+}
