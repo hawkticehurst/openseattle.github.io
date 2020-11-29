@@ -1,0 +1,14 @@
+.hero-container {
+  display: flex;
+  flex-flow: column wrap;
+  height: 75vh;
+  padding-top: 8rem;
+}
+
+.hero-text {
+  font-size: 50px;
+}
+
+.hero-btn-container {
+  margin: 1rem 0;
+}
