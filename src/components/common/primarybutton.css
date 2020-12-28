@@ -3,13 +3,11 @@
   text-decoration: none;
   color: black;
   margin: 0 1.5rem 0 0;
-  padding: 0.5rem;
-  border-radius: 15px;
-  border: solid 2px rgb(187, 187, 187);
-  background: #f2f4f8;
+  padding: 0.5rem 1rem;
+  border-radius: 7px;
+  background-color: #f3f3f4;
 }
 
 .hero-btn:hover {
-  border-color: rgb(113, 87, 206);
-  background: #dde3f4;
+  background-color: #e7e7e9;
 }
