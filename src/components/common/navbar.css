@@ -11,8 +11,6 @@
   margin: 0;
   padding: 0.5rem;
   border-radius: 15px;
-  background: #f2f4f8;
-  box-shadow: 7px 7px 13px rgb(224, 224, 224), -7px -7px 13px rgb(255, 255, 255);
 }
 
 .navbar-logo-link {
