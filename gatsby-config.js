@@ -6,6 +6,7 @@ module.exports = {
     description: "Technology for civic engagement.",
     author: "Open Seattle",
   },
+  pathPrefix: "/openseattle.github.io",
   plugins: [
     {
       resolve: `gatsby-plugin-mdx`,
