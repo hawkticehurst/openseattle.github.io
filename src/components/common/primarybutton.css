@@ -5,9 +5,9 @@
   margin: 0 1.5rem 0 0;
   padding: 0.5rem 1rem;
   border-radius: 7px;
-  background-color: #f3f3f4;
+  background-color: hsl(240, 4%, 90%);
 }
 
 .hero-btn:hover {
-  background-color: #e7e7e9;
+  background-color: hsl(240, 4%, 85%);
 }
