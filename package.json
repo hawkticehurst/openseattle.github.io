@@ -1,6 +1,7 @@
 {
   "name": "open-seattle-website",
   "description": "The official website for Open Seattle.",
+  "homepage": "http://hawkticehurst.github.io/openseattle.github.io",
   "version": "1.0.0",
   "dependencies": {
     "@mdx-js/mdx": "^1.1.5",
@@ -25,9 +26,12 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "prettier": "^1.18.2"
   },
   "repository": {
