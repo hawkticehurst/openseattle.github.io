@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { StaticQuery, graphql } from "gatsby";
 
 import Navbar from "./common/navbar";
+import Footer from "./common/footer";
 import "./layout.css";
 
 const Layout = ({ children }) => (
@@ -28,6 +29,7 @@ const Layout = ({ children }) => (
           }}>
           {children}
         </section>
+        <Footer />
       </>
     )}
   />
