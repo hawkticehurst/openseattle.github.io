@@ -30,7 +30,7 @@ function Footer() {
           <h2>Join Our Mailing List</h2>
           <div className="footer-mailing-list-input-container">
             <input type="text" />
-            <a href="#">Submit</a>
+            <a href="/">Submit</a>
           </div>
         </div>
       </div>
